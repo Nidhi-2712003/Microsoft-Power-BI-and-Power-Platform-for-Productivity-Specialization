@@ -227,7 +227,7 @@ Explore my other data analytics and business intelligence projects:
 ## 👤 About Me
 
 **D Nidhi Sree**  
-*Quality Analyst → Business Analyst (Transitioning)*  
+*Quality Analyst → Business Analyst
 *MBA in Business Analytics | Amazon*
 
 🔹 Passionate about transforming raw data into actionable business insights  
@@ -243,13 +243,6 @@ Explore my other data analytics and business intelligence projects:
 ---
 
 ## 📝 Progress Updates
-
-**Last Updated:** November 16, 2025
-
-**Current Status:**
-- ✅ Completed: Courses 1-2 (Excel Analysis, Power BI Basics)
-- 🔄 In Progress: Courses 3-5 (ETL, Data Modeling, DAX & Visualization)
-- ⏳ Upcoming: Courses 6-10 (Design, Copilot, Power Platform)
 
 **Learning Highlights:**
 - Mastered Power Query transformations and data cleaning techniques
@@ -267,11 +260,6 @@ Explore my other data analytics and business intelligence projects:
 - [DAX Function Reference](https://docs.microsoft.com/en-us/dax/)
 - [Power Platform Documentation](https://docs.microsoft.com/en-us/power-platform/)
 
-### Community & Support
-- [Power BI Community Forum](https://community.powerbi.com/)
-- [Power Apps Community](https://powerusers.microsoft.com/)
-- [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
-
 ---
 
 ## ⚖️ License & Usage
@@ -280,14 +268,5 @@ Explore my other data analytics and business intelligence projects:
 
 *This repository contains learning materials, notes, and practice projects from the Coursera specialization. All course content and materials are the property of Microsoft and Coursera. Projects use mock data or publicly available datasets for educational purposes only.*
 
----
-
-## ⭐ Acknowledgments
-
-- **Microsoft** for creating comprehensive and practical course content
-- **Coursera** for providing an excellent learning platform
-- The **Power BI community** for continuous support and knowledge sharing
 
 ---
-
-*🚀 Follow my learning journey! Star this repo to stay updated on my progress.*
