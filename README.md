@@ -1,7 +1,7 @@
 # Microsoft Power BI and Power Platform for Productivity Specialization
 
 **Coursera Professional Certificate | Microsoft**  
-*📚 Status: In Progress - Currently Learning Implementing AI to Visualization & DAX*
+*📚 Status: In Progress - Currently Learning to Implement AI to Visualization & DAX*
 
 ---
 
