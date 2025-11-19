@@ -1,25 +1,25 @@
 # Microsoft Power BI and Power Platform for Productivity Specialization
 
 **Coursera Professional Certificate | Microsoft**  
-*📚 Status: In Progress - Currently Learning to Implement AI to Visualization & DAX*
+*Status: In Progress - Currently Learning to Implement AI to Visualization & DAX*
 
 ---
 
-## 📊 Overview
+## Overview
 
 This repository documents my learning journey through the **Microsoft Power BI and Power Platform for Productivity Specialization** on Coursera. This comprehensive program combines Microsoft Power BI for business intelligence with Microsoft Power Platform for business automation, providing essential skills for data-driven decision-making and building custom business software solutions with minimal coding.
 
 **🔗 Course Link:** [View on Coursera](https://www.coursera.org/specializations/microsoft-power-bi-and-power-platform-productivity)
 
-**👨‍🏫 Instructor:** Microsoft  
-**⏱️ Duration:** 4 months (10 hours/week)  
-**🎓 Level:** Beginner  
-**⭐ Rating:** 4.6/5 (111 reviews)  
-**👥 Enrolled:** 10,289+ learners
+**Instructor:** Microsoft  
+**Duration:** 4 months (10 hours/week)  
+**Level:** Beginner  
+**Rating:** 4.6/5 (111 reviews)  
+**Enrolled:** 10,289+ learners
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - ✅ Perform advanced data analysis using Excel and Power BI
 - ✅ Design compelling and accessible reports and dashboards using Power BI
@@ -32,54 +32,54 @@ This repository documents my learning journey through the **Microsoft Power BI a
 
 ---
 
-## 📚 Specialization Curriculum (10 Courses)
+## Specialization Curriculum (10 Courses)
 
-### 1️⃣ Data for Analysis with Microsoft Excel
+### Data for Analysis with Microsoft Excel
 **Duration:** 19 hours  
 Fundamentals of data preparation and analysis using Excel formulas and functions.
 
-### 2️⃣ Unlock the Power of Data with Power BI
+### Unlock the Power of Data with Power BI
 **Duration:** 14 hours  
 Introduction to Power BI interface, data connections, and basic visualizations.
 
-### 3️⃣ Data Extract, Transform, and Load in Power BI
+### Data Extract, Transform, and Load in Power BI
 **Duration:** 20 hours  
 🔄 **Currently Learning**  
 Mastering Power Query for data transformation, cleaning, and ETL pipelines.
 
-### 4️⃣ Modeling Data in Power BI
+### Modeling Data in Power BI
 **Duration:** 23 hours  
 🔄 **Currently Learning**  
 Designing star schemas, creating relationships, and implementing data models.
 
-### 5️⃣ Analysis and Visualization of Data with Power BI
+### Analysis and Visualization of Data with Power BI
 **Duration:** 28 hours  
 🔄 **Currently Learning**  
 Advanced DAX calculations, measures, and creating interactive dashboards.
 
-### 6️⃣ Creative Designing in Power BI
+### Creative Designing in Power BI
 **Duration:** 20 hours  
 Design principles for accessible, user-friendly, and visually appealing reports.
 
-### 7️⃣ Copilot for Power BI
+### Copilot for Power BI
 **Duration:** 1 hour  
 Leveraging AI-powered Copilot to accelerate Power BI development.
 
-### 8️⃣ Introduction to Microsoft Power Platform
+### Introduction to Microsoft Power Platform
 **Duration:** 3 hours  
 Overview of Power Apps, Power Automate, Power Virtual Agents, and Dataverse.
 
-### 9️⃣ Use Power Platform for Custom & Automated Solutions
+### Use Power Platform for Custom & Automated Solutions
 **Duration:** 9 hours  
 Building custom business apps and workflow automation with Power Platform.
 
-### 🔟 Power Virtual Agents
+### Power Virtual Agents
 **Duration:** 4 hours  
 Creating intelligent chatbots for customer service and business support.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Data Analysis & Visualization
 - Microsoft Power BI Desktop
@@ -112,29 +112,29 @@ Creating intelligent chatbots for customer service and business support.
 
 ---
 
-## 💼 Real-World Applications & Use Cases
+## Real-World Applications & Use Cases
 
 Throughout this specialization, I'm developing practical skills applicable to:
 
-### 📈 Business Intelligence
+### Business Intelligence
 - Creating executive dashboards for KPI tracking
 - Building sales performance reports with drill-down capabilities
 - Analyzing customer behavior and trends
 - Developing financial reporting dashboards
 
-### 🤖 Process Automation
+### Process Automation
 - Automating data refresh workflows
 - Building approval processes with Power Automate
 - Creating email notifications based on data thresholds
 - Integrating multiple data sources automatically
 
-### 📱 Custom Business Apps
+### Custom Business Apps
 - Developing inventory management apps
 - Creating employee onboarding portals
 - Building customer feedback collection systems
 - Designing field service mobile apps
 
-### 💬 Chatbot Solutions
+### Chatbot Solutions
 - Customer support virtual agents
 - FAQ automation bots
 - IT helpdesk chatbots
@@ -142,7 +142,7 @@ Throughout this specialization, I'm developing practical skills applicable to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Microsoft-Power-BI-and-Power-Platform-for-Productivity-Specialization/
@@ -165,7 +165,7 @@ Microsoft-Power-BI-and-Power-Platform-for-Productivity-Specialization/
 
 ---
 
-## 🏆 Certificates
+## Certificates
 
 *Upon completion of each course, certificates will be added below:*
 
@@ -180,7 +180,7 @@ Microsoft-Power-BI-and-Power-Platform-for-Productivity-Specialization/
 - [ ] Course 9: Use Power Platform for Custom & Automated Solutions
 - [ ] Course 10: Power Virtual Agents
 
-**🎖️ Specialization Certificate:** [Will be added upon completion]
+** Specialization Certificate:** [Will be added upon completion]
 
 ---
 
@@ -205,7 +205,7 @@ Explore my other data analytics and business intelligence projects:
 
 ---
 
-## 🎓 Career Development
+## Career Development
 
 ### Skills Demonstrated
 - **Business Analysis:** Requirements gathering, data modeling, process documentation
@@ -224,17 +224,17 @@ Explore my other data analytics and business intelligence projects:
 
 ---
 
-## 👤 About Me
+## About Me
 
 **D Nidhi Sree**  
 *Quality Analyst → Business Analyst
 *MBA in Business Analytics | Amazon*
 
-🔹 Passionate about transforming raw data into actionable business insights  
-🔹 Experienced in data validation, brand coverage analysis, and marketplace data management  
-🔹 Actively upskilling in Power BI, SQL, ETL development, and business intelligence
+- Passionate about transforming raw data into actionable business insights  
+- Experienced in data validation, brand coverage analysis, and marketplace data management  
+- Actively upskilling in Power BI, SQL, ETL development, and business intelligence
 
-### 📫 Connect With Me
+### Connect With Me
 
 - **GitHub:** [@Nidhi-2712003](https://github.com/Nidhi-2712003)
 - **LinkedIn:** [D Nidhi Sree](https://www.linkedin.com/in/d-nidhi-sree-998a6037a/)
@@ -242,7 +242,7 @@ Explore my other data analytics and business intelligence projects:
 
 ---
 
-## 📝 Progress Updates
+## Progress Updates
 
 **Learning Highlights:**
 - Mastered Power Query transformations and data cleaning techniques
@@ -252,7 +252,7 @@ Explore my other data analytics and business intelligence projects:
 
 ---
 
-## 📖 Learning Resources
+## Learning Resources
 
 ### Official Documentation
 - [Microsoft Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
@@ -262,7 +262,7 @@ Explore my other data analytics and business intelligence projects:
 
 ---
 
-## ⚖️ License & Usage
+## License & Usage
 
 © 2025 D Nidhi Sree | For educational and portfolio purposes
 
