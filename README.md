@@ -21,14 +21,14 @@ This repository documents my learning journey through the **Microsoft Power BI a
 
 ## Learning Objectives
 
-- ✅ Perform advanced data analysis using Excel and Power BI
-- ✅ Design compelling and accessible reports and dashboards using Power BI
-- ✅ Develop simple Power Apps for business applications
-- ✅ Automate business processes using Power Automate
-- ✅ Master Power BI ETL (Extract, Transform, Load) processes
-- ✅ Build data models using star schema and DAX formulas
-- ✅ Leverage Copilot for Power BI to enhance productivity
-- ✅ Create chatbots using Power Virtual Agents
+✅ Perform advanced data analysis using Excel and Power BI
+✅ Design compelling and accessible reports and dashboards using Power BI
+✅ Develop simple Power Apps for business applications
+✅ Automate business processes using Power Automate
+✅ Master Power BI ETL (Extract, Transform, Load) processes
+✅ Build data models using star schema and DAX formulas
+✅ Leverage Copilot for Power BI to enhance productivity
+✅ Create chatbots using Power Virtual Agents
 
 ---
 
